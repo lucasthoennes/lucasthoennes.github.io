@@ -64,16 +64,16 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Budget Dashboard
-        link: github.com/lucasthoennes/Python-Projects
-        link_text: Python Scripts Repo
+        link: github.com/lucasthoennes/website
+        link_text: My Personal Website Repo
         additional_links:
           - title:  Github page for project 
             icon: fab fa-github
-            url: github.com/lucasthoennes/Python-Projects
+            url: github.com/lucasthoennes/website
         quote: >
           Home for my Python Scripts.
         # description: | # this will include new lines to allow paragraphs
-        #   Includes sankey diagram, pie charts, and amortization graph.
+        #   My personal website built with HTML/CSS/JS
   - title: Current Employment
     layout: list
     content:
