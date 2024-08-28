@@ -71,7 +71,7 @@ content:
             icon: fab fa-github
             url: github.com/lucasthoennes/website
         quote: >
-          Home for my Python Scripts.
+          My personal website built with HTML/CSS/JS.
         # description: | # this will include new lines to allow paragraphs
         #   My personal website built with HTML/CSS/JS
   - title: Current Employment
