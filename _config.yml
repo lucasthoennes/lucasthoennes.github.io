@@ -63,7 +63,7 @@ content:
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Budget Dashboard
+        title: Personal Website
         link: github.com/lucasthoennes/website
         link_text: My Personal Website Repo
         additional_links:
