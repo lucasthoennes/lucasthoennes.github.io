@@ -64,12 +64,12 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: Personal Website
-        link: github.com/lucasthoennes/website
+        link: github.com/lucasthoennes/newWebsite
         link_text: My Personal Website Repo
         additional_links:
           - title:  Github page for project 
             icon: fab fa-github
-            url: github.com/lucasthoennes/website
+            url: github.com/lucasthoennes/newWebsite
         quote: >
           My personal website built with HTML/CSS/JS.
         # description: | # this will include new lines to allow paragraphs
