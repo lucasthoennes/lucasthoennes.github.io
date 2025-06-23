@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Lucas Thoennes
-title: Systems Engineer
+title: Systems Administrator
 email: thoennes@outlook.com
 # email_title: Email (Email title override)
 #phone: Your phone number (optional)
@@ -78,12 +78,12 @@ content:
     layout: list
     content:
       - layout: top-left
-        title: Baker Hughes
-        sub_title: Lead Systems Engineer
-        caption: August 2021 - Present
+        title: Starbucks
+        sub_title: Senior Systems Administrator
+        caption: July 2025 - Present
         #link: Link to company (optional)
         quote: >
-          Systems engineering and support for global energy company.
+          Systems administration for global coffee company.
         # description: | # this will include new lines to allow paragraphs
         #   Network administration | Project management | Cybersecurity
   - title: Education
