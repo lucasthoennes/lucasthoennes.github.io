@@ -100,7 +100,7 @@ content:
   - title: Programming languages
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I first got into programming/scripting/coding when I would type out entire books of code on my Commodore 128 in qBasic.  
+      I first got into programming/scripting/coding when I would type out entire books of code on my Commodore 128.  
       
       When typed in exactly correct I would have a fun text adventure game!
 
