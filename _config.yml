@@ -106,6 +106,7 @@ content:
       When typed in exactly correct I would have a fun text adventure game!
 
       Today I focus on Python, PowerShell, SQL, and HTML/CSS/JS
+         - Images ![alt text](/images/avatar2024.jpg "Luke")
 
 # Footer
 footer_show_references: false
