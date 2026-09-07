@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   Welcome to my webpage.  
 
   Please feel free to explore my repos but be aware I am just a casual coder!
-   - Images ![alt text](/images/avatar2024.jpg "Luke")
+   
 
 content:
   - title: Projects # Title for the section
