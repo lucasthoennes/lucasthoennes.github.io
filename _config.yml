@@ -109,9 +109,6 @@ content:
   - title: Photos # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
       - Images ![alt text](/images/LucasThoennes1.jpg "Carson City Concerts")
       - Images ![alt text](/images/LucasThoennes4.jpg "Old Time Photos")
       - Images ![alt text](/images/LucasThoennes6.jpg "Christmas")
@@ -123,7 +120,7 @@ content:
       When typed in exactly correct I would have a fun text adventure game!
 
       Today I focus on Python, PowerShell, SQL, and HTML/CSS/JS
-      - Images ![alt text](/images/LucasThoennes1.jpg "Carson City Concerts")
+      
         
 
 # Footer
