@@ -82,8 +82,9 @@ content:
         #   Description of qualification
   - title: Photos
     layout: text
+          {% include image-gallery.html folder="/images" %}
+
     content: | # this will include new lines to allow paragraphs
-      {% include image-gallery.html folder="/images" %}
       - Carson City Concerts ![alt text](/images/LucasThoennes1.jpg "Carson City Concerts")
       - Old Time Photos ![alt text](/images/LucasThoennes4.jpg "Old Time Photos")
       - Christmas ![alt text](/images/LucasThoennes6.jpg "Christmas")
