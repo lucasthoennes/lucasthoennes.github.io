@@ -69,6 +69,15 @@ content:
           Systems administration for global coffee company.
         # description: | # this will include new lines to allow paragraphs
         #   Network administration | Project management | Cybersecurity
+  - layout: top-left
+        title: Starbucks
+        sub_title: Senior Systems Administrator
+        caption: July 2025 - Present
+        #link: Link to company (optional)
+        quote: >
+          Systems administration for global coffee company.
+        # description: | # this will include new lines to allow paragraphs
+        #   Network administration | Project management | Cybersecurity      
   - title: Education
     layout: list
     content:
