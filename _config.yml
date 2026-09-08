@@ -50,7 +50,7 @@ linkedin_username: lucasthoennes
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/luke-pic.png
+about_profile_image: images/LucasThoennesAvatar.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am originally from Minnesota but currently reside in Nevada. I am a systems administrator for a coffee roasting plant. I enjoy hiking, disc golf, fantasy football, and billiards.
   I spend most of my time with my wife Kelly and our cats Pinot and Ethel. We enjoy exploring the beautiful outdoor spaces of the Sierra Nevada.
@@ -106,23 +106,15 @@ content:
           My personal website built with HTML/CSS/JS.
         # description: | # this will include new lines to allow paragraphs
         #   My personal website built with HTML/CSS/JS
-  - title: Projects # Title for the section
+  - title: Photos # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Personal Website
-        link: github.com/lucasthoennes/newWebsite
-        link_text: My Personal Website Repo
-        additional_links:
-          - title:  Github page for project 
-            icon: fab fa-github
-            url: github.com/lucasthoennes/newWebsite
-        quote: >
-          My personal website built with HTML/CSS/JS.
-        # description: | # this will include new lines to allow paragraphs
-        #   My personal website built with HTML/CSS/JS
+      - Images ![alt text](/images/LucasThoennes1.jpg "Carson City Concerts")
+      - Images ![alt text](/images/LucasThoennes4.jpg "Old Time Photos")
+      - Images ![alt text](/images/LucasThoennes6.jpg "Christmas")
   - title: Programming languages
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -131,7 +123,7 @@ content:
       When typed in exactly correct I would have a fun text adventure game!
 
       Today I focus on Python, PowerShell, SQL, and HTML/CSS/JS
-         - Images ![alt text](/images/avatar2024.jpg "Luke")
+        
 
 # Footer
 footer_show_references: false
