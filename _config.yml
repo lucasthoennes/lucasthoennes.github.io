@@ -69,15 +69,6 @@ content:
           Systems administration for global coffee company.
         # description: | # this will include new lines to allow paragraphs
         #   Network administration | Project management | Cybersecurity
-      - layout: top-left
-        title: Starbucks
-        sub_title: Senior Systems Administrator
-        caption: July 2025 - Present
-        #link: Link to company (optional)
-        quote: >
-          Systems administration for global coffee company.
-        # description: | # this will include new lines to allow paragraphs
-        #   Network administration | Project management | Cybersecurity      
   - title: Education
     layout: list
     content:
@@ -89,30 +80,7 @@ content:
         #   Short institution or course description (optional)
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Personal Website
-        link: github.com/lucasthoennes/newWebsite
-        link_text: My Personal Website Repo
-        additional_links:
-          - title:  Github page for project 
-            icon: fab fa-github
-            url: github.com/lucasthoennes/newWebsite
-        quote: >
-          My personal website built with HTML/CSS/JS.
-        # description: | # this will include new lines to allow paragraphs
-        #   My personal website built with HTML/CSS/JS
-  - title: Photos # Title for the section
-    layout: text # Type of content section (list/text)
-    content:
-      - Images ![alt text](/images/LucasThoennes1.jpg "Carson City Concerts")
-      - Images ![alt text](/images/LucasThoennes4.jpg "Old Time Photos")
-      - Images ![alt text](/images/LucasThoennes6.jpg "Christmas")
-  - title: Programming languages
+  - title: Photos
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Images ![alt text](/images/LucasThoennes1.jpg "Carson City Concerts")
