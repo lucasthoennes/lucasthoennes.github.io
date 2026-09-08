@@ -109,7 +109,7 @@ content:
   - title: Photos # Title for the section
     layout: text # Type of content section (list/text)
     content:
-      - Images ![alt text](/images/LucasThoennes1.jpg "Carson City Concerts")
+        Images ![alt text](/images/LucasThoennes1.jpg "Carson City Concerts")
       - Images ![alt text](/images/LucasThoennes4.jpg "Old Time Photos")
       - Images ![alt text](/images/LucasThoennes6.jpg "Christmas")
   - title: Programming languages
