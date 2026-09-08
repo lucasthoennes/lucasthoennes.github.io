@@ -107,7 +107,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
         #   My personal website built with HTML/CSS/JS
   - title: Photos # Title for the section
-    layout: list # Type of content section (list/text)
+    layout: text # Type of content section (list/text)
     content:
       - Images ![alt text](/images/LucasThoennes1.jpg "Carson City Concerts")
       - Images ![alt text](/images/LucasThoennes4.jpg "Old Time Photos")
