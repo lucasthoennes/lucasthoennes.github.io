@@ -57,23 +57,6 @@ about_content: | # this will include new lines to allow paragraphs
    
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Personal Website
-        link: github.com/lucasthoennes/newWebsite
-        link_text: My Personal Website Repo
-        additional_links:
-          - title:  Github page for project 
-            icon: fab fa-github
-            url: github.com/lucasthoennes/newWebsite
-        quote: >
-          My personal website built with HTML/CSS/JS.
-        # description: | # this will include new lines to allow paragraphs
-        #   My personal website built with HTML/CSS/JS
   - title: Current Employment
     layout: list
     content:
@@ -97,6 +80,40 @@ content:
         #   Short institution or course description (optional)
         # description: | # this will include new lines to allow paragraphs
         #   Description of qualification
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Personal Website
+        link: github.com/lucasthoennes/newWebsite
+        link_text: My Personal Website Repo
+        additional_links:
+          - title:  Github page for project 
+            icon: fab fa-github
+            url: github.com/lucasthoennes/newWebsite
+        quote: >
+          My personal website built with HTML/CSS/JS.
+        # description: | # this will include new lines to allow paragraphs
+        #   My personal website built with HTML/CSS/JS
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Personal Website
+        link: github.com/lucasthoennes/newWebsite
+        link_text: My Personal Website Repo
+        additional_links:
+          - title:  Github page for project 
+            icon: fab fa-github
+            url: github.com/lucasthoennes/newWebsite
+        quote: >
+          My personal website built with HTML/CSS/JS.
+        # description: | # this will include new lines to allow paragraphs
+        #   My personal website built with HTML/CSS/JS
   - title: Programming languages
     layout: text
     content: | # this will include new lines to allow paragraphs
