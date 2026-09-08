@@ -83,9 +83,9 @@ content:
   - title: Photos
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Images ![alt text](/images/LucasThoennes1.jpg "Carson City Concerts")
-      - Images ![alt text](/images/LucasThoennes4.jpg "Old Time Photos")
-      - Images ![alt text](/images/LucasThoennes6.jpg "Christmas")
+      - Carson City Concerts ![alt text](/images/LucasThoennes1.jpg "Carson City Concerts")
+      - Old Time Photos ![alt text](/images/LucasThoennes4.jpg "Old Time Photos")
+      - Christmas ![alt text](/images/LucasThoennes6.jpg "Christmas")
       
         
 
