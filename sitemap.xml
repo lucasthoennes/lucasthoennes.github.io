@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://lthoennes.com/index.html</loc>
+    <loc>https://lthoennes.com/</loc>
     <image:image>
       <image:loc>https://lthoennes.com/LucasThoennes1.jpg</image:loc>
     </image:image>
@@ -12,11 +12,13 @@
     <image:image>
       <image:loc>https://lthoennes.com/LucasThoennes6.jpg</image:loc>
     </image:image>
+    <image:image>
       <image:loc>https://lthoennes.com/LucasThoennesAvatar.jpeg</image:loc>
     </image:image>
+    <image:image>
       <image:loc>https://lthoennes.com/LukeThoennesAvatar.jpg</image:loc>
     </image:image>
 
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-11-03</lastmod>
   </url>
 </urlset>
